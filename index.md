@@ -5,11 +5,11 @@ You can use the [editor on GitHub](https://github.com/ihamaz/ihamaz/edit/master/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 <div class="col-md-8">
-    <h1 class="page-header">PhD Candidate, MIT</h1> 
+    <h1 class="page-header">PhD student, LAAS-CNRS</h1> 
     <p>
-      I am a 5th year PhD student, advised by Profs.
-      <strong><a href="http://web.mit.edu/dbertsim/www/">Dimitris Bertsimas</a></strong> and
-      <strong><a href="http://web.mit.edu/jaillet/www/">Patrick Jaillet</a></strong>. I am on the academic job market this year (2018-19).
+      I am a PhD student as a member of ROC team. I'm supervised by
+      <strong><a href="http://homepages.laas.fr/lhoussin/">Laurent Houssin</a></strong> and
+      <strong><a href="http://recherche.enac.fr/~cafieri/">Sonia cafieri</a></strong>.
     </p>
     
 tablinks:
