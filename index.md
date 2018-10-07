@@ -1,11 +1,5 @@
-## Phd student, LAAS-CNRS
-
-You can use the [editor on GitHub](https://github.com/ihamaz/ihamaz/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 <div class="col-md-8">
-    <h1 class="page-header">PhD student, LAAS-CNRS</h1> 
+    <h1 class="page-header">PhD student, LAAS-CNRS (under construction)</h1> 
     <p>
       I am a PhD student as a member of ROC team. I'm supervised by
       <strong><a href="http://homepages.laas.fr/lhoussin/">Laurent Houssin</a></strong> and
@@ -15,8 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 tablinks:
     <h1 class="page-header">Research</h1>
     <p>
-      My current research interests are <strong>Large-Scale Optimization</strong>, <strong>Machine Learning</strong>, <strong>Transportation</strong>,
-      <strong>Data Analytics</strong> and applications to <strong>Public Policy</strong>.
+     My research concerns the application of Robust Optimisation in Cyclic Scheduling Problems.
     </p>
     
 ### Markdown
