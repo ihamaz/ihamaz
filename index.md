@@ -1,9 +1,15 @@
-## Welcome to GitHub Pages
+## Phd student, LAAS-CNRS
 
 You can use the [editor on GitHub](https://github.com/ihamaz/ihamaz/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+    <h1 class="page-header">Research</h1>
+    <p>
+      My current research interests are <strong>Large-Scale Optimization</strong>, <strong>Machine Learning</strong>, <strong>Transportation</strong>,
+      <strong>Data Analytics</strong> and applications to <strong>Public Policy</strong>.
+    </p>
+    
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
