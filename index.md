@@ -3,6 +3,15 @@
 You can use the [editor on GitHub](https://github.com/ihamaz/ihamaz/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+<div class="col-md-8">
+    <h1 class="page-header">PhD Candidate, MIT</h1> 
+    <p>
+      I am a 5th year PhD student, advised by Profs.
+      <strong><a href="http://web.mit.edu/dbertsim/www/">Dimitris Bertsimas</a></strong> and
+      <strong><a href="http://web.mit.edu/jaillet/www/">Patrick Jaillet</a></strong>. I am on the academic job market this year (2018-19).
+    </p>
+    
 tablinks:
     <h1 class="page-header">Research</h1>
     <p>
